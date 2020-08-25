@@ -19,7 +19,9 @@ Daha Sonra kullanıcıdan giriş yapması istenecek
 değerleri geçerli olacak.
 
 G değeri ile garaja verilen tip değerinde araç girecek. Eğer garajda yer müsait ise araç yerleşecek. Kullanıcı bilgilendirilecek. Yer yoksa kullanıcıya hata mesajı verilecek.
+
 C değeri ile garaja verilen tip değerinde araç cıkacak. Eğer garajda o tipte araç yoksa kullanıcı uyarılacak.
+
 LIST komutu ile garajdaki araçlar listelenecek.
 
 Her giriş ve her çıkışta garajdaki mevcut yer durumu gösterilecek.
