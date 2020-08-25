@@ -22,7 +22,7 @@ G değeri ile garaja verilen tip değerinde araç girecek. Eğer garajda yer mü
 
 C değeri ile garaja verilen tip değerinde araç cıkacak. Eğer garajda o tipte araç yoksa kullanıcı uyarılacak.
 
-LIST komutu ile garajdaki araçlar listelenecek.
+L komutu ile garajdaki araçlar listelenecek.
 
 Her giriş ve her çıkışta garajdaki mevcut yer durumu gösterilecek.
 
