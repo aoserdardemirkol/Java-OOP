@@ -5,10 +5,10 @@ Object oriented konsol uygulaması olacak.
 Araç Tipi, Araç Adı, Kapladığı Alan
 Tip : 1 - Bisiklet  - 1 Birim;
 Tip : 2 - Motorsiklet - 1 Birim;
-Tip : 3 - Araba - 2 Birim;;
-Tip : 4 - Kamyonet - 3 Birim;;
-Tip : 5 - Otobüs - 5 Birim;;
-Tip : 6 - Tır -  8 Birim;;
+Tip : 3 - Araba - 2 Birim;
+Tip : 4 - Kamyonet - 3 Birim;
+Tip : 5 - Otobüs - 5 Birim;
+Tip : 6 - Tır -  8 Birim;
 
 Uygulama başlayınca kullanıcıdan garajın kapasitesi istenecek: 5 ile 50 arası bir değer alınacak. Kullanıcı 5-50 arası değer girinceye kadar uygulama başlamayacak.
 
