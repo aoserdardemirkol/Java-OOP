@@ -20,9 +20,8 @@ Uygulama başlayınca kullanıcıdan garajın kapasitesi istenecek: 5 ile 50 ara
 
 Daha Sonra kullanıcıdan giriş yapması istenecek
 
-G TIP Örnek: G3
-
-C TIP Örnek: C3
+G TIP Örnek: G3.
+C TIP Örnek: C3.
 
 değerleri geçerli olacak.
 
