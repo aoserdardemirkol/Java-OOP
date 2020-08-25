@@ -30,5 +30,5 @@ Her giriş ve her çıkışta garajdaki mevcut yer durumu gösterilecek.
 - Abstract class ya da interface kullanımı zorunlu
 
 Design Pattern Kullanımları:
-- Kullanıcıdan Giriş istenirken Kommand kullanıldı.
-- Garaj kalan alan kısmında Observer kullanıldı.
+- Kullanıcıdan Giriş istenirken Command(Komut) kullanıldı.
+- Garaj kalan alan kısmında Observer(Gözlemci) kullanıldı.
