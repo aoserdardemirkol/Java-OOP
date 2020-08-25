@@ -13,8 +13,10 @@ Tip : 6 - Tır -  8 Birim;
 Uygulama başlayınca kullanıcıdan garajın kapasitesi istenecek: 5 ile 50 arası bir değer alınacak. Kullanıcı 5-50 arası değer girinceye kadar uygulama başlamayacak.
 
 Daha Sonra kullanıcıdan giriş yapması istenecek
+
 G TIP Örnek: G3
 C TIP Örnek: C3
+
 değerleri geçerli olacak.
 
 G değeri ile garaja verilen tip değerinde araç girecek. Eğer garajda yer müsait ise araç yerleşecek. Kullanıcı bilgilendirilecek. Yer yoksa kullanıcıya hata mesajı verilecek.
