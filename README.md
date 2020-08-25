@@ -11,6 +11,7 @@ Araç Tipi, Araç Adı, Kapladığı Alan
 - Tip : 6 - Tır -  8 Birim;	
 
 Uygulama başlayınca kullanıcıdan garajın kapasitesi istenecek: 5 ile 50 arası bir değer alınacak. Kullanıcı 5-50 arası değer girinceye kadar uygulama başlamayacak.
+
 Daha Sonra kullanıcıdan giriş yapması istenecek
 - G TIP Örnek: G3
 - C TIP Örnek: C3
