@@ -31,4 +31,4 @@ Her giriş ve her çıkışta garajdaki mevcut yer durumu gösterilecek.
 
 Design Pattern Kullanımları:
 - Kullanıcıdan Giriş istenirken Kommand kullanıldı.
-- Garaj kalan alan kısmında Observer kulannıldı.
+- Garaj kalan alan kısmında Observer kulanıldı.
